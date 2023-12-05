@@ -175,7 +175,13 @@ section {
     width: 400px;
     margin: auto 0;
     background-size:contain;
+}
+
+.profile_pic{
+    width: 400px;
+    height: 400px;
     border-radius: 50%;
+    object-fit: cover;
 }
 
 .section__text {
